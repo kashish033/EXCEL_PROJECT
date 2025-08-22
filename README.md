@@ -1,1 +1,2 @@
 # EXCEL_PROJECT
+An excel dashboard project involves creation a dynamic,single-page report using Microsoft Excel to visualize key performance indicators(KPIs) and other critical data through CHARTS,GRAPHS and TABLES.This project consolidates large datasets,offering users a quick,high-level overview of complex information to track business performance,monitor project progress,and facilitate informed decision making by allowing users to filter, analyze,and interpret data in real-time.
